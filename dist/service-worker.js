@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vuefirebase-project/precache-manifest.a41f4f421f62f1cb69f8adb6943dba64.js"
+  "/precache-manifest.1d0af9e810402fc71ce29b77a16f3da8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuefirebase"});
